@@ -8,6 +8,6 @@ This is a quick way of deleteing all the temp "files"{not the subfolders in thos
 
 
 # NOTICE
-As said above, this script will delete all the temporary files,but however, it doesn't delete the subfolders in those locations, but all the temp files in in the subfolders will be deleted but the subfolders will remain emptyand doesn't really afect anything, however if you want to manually delete all the empty subfolders, you can go to the locations specified above beside each foldername[in sq. brackets] and delete them.
+As said above, this script will delete all the temporary files,but however, it doesn't delete the subfolders in those locations, but all the temp files in in the subfolders will be deleted but the subfolders will remain empty and doesn't really affect anything, however if you want to manually delete all the empty subfolders, you can go to the locations specified above beside each foldername[in sq. brackets] and delete them.
 
-By the way you will need admin permission in order to run it.
+Also you will need to run the file as administrator.
